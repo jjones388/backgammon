@@ -1,5 +1,8 @@
 # Backgammon
 
+<img width="634" height="551" alt="backgammon_screenshot" src="https://github.com/user-attachments/assets/02cfea87-bc62-499f-92f6-29262d605bac" />
+
+
 A fully playable single-page Backgammon game built with plain HTML, CSS, and JavaScript — no frameworks or dependencies required.
 
 ## Overview
